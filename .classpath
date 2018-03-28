@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Project"/>
+	<classpathentry kind="src" path="Bank"/>
+	<classpathentry kind="src" path="View"/>
+	<classpathentry kind="lib" path="mysql-connector-java-5.1.45-bin.jar"/>
+	<classpathentry kind="lib" path="jsoup-1.11.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
